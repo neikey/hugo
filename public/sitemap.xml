@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://test-9lt.pages.dev/</loc>
+    <loc>http://hugo.mi/</loc>
     <lastmod>2024-10-22T20:58:01+08:00</lastmod>
   </url><url>
-    <loc>http://test-9lt.pages.dev/post/</loc>
+    <loc>http://hugo.mi/post/first/</loc>
     <lastmod>2024-10-22T20:58:01+08:00</lastmod>
   </url><url>
-    <loc>http://test-9lt.pages.dev/categories/</loc>
+    <loc>http://hugo.mi/post/</loc>
+    <lastmod>2024-10-22T20:58:01+08:00</lastmod>
   </url><url>
-    <loc>http://test-9lt.pages.dev/tags/</loc>
+    <loc>http://hugo.mi/about/</loc>
+    <lastmod>2024-10-22T20:57:45+08:00</lastmod>
+  </url><url>
+    <loc>http://hugo.mi/categories/</loc>
+  </url><url>
+    <loc>http://hugo.mi/tags/</loc>
   </url>
 </urlset>

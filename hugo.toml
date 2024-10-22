@@ -1,4 +1,0 @@
-baseURL = 'http://test-9lt.pages.dev/'
-languageCode = 'zh-cn'
-title = 'My New Hugo Site'
-theme = 'hyde'
