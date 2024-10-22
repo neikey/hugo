@@ -1,6 +1,0 @@
-theme = "hyde"
-
-baseURL = 'https://blog.neikey1.com/'
-languageCode = 'zh-CN'
-title = 'My New Hugo Site'
-
