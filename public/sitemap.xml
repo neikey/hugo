@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hugo.mi/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-10-22T20:58:01+08:00</lastmod>
   </url><url>
-    <loc>http://hugo.mi/post/first/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2024-10-22T20:58:01+08:00</lastmod>
   </url><url>
-    <loc>http://hugo.mi/post/</loc>
-    <lastmod>2024-10-22T20:58:01+08:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://hugo.mi/about/</loc>
-    <lastmod>2024-10-22T20:57:45+08:00</lastmod>
-  </url><url>
-    <loc>http://hugo.mi/categories/</loc>
-  </url><url>
-    <loc>http://hugo.mi/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
